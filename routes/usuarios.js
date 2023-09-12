@@ -40,4 +40,4 @@ router.delete( '/:id',
 );
 
 
-module.exports = router; //exporta
+module.exports = router; //exports
